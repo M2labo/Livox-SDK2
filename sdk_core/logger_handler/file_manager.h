@@ -28,6 +28,7 @@
 #include <string>
 #include <vector>
 #include <map>
+#include <cstdint>  // 追加
 
 namespace livox {
 namespace lidar {
